@@ -11,6 +11,9 @@ IDs `1`, `2`, and `3`. The Arduino continuously polls the HuskyLens over
 a serial connection; whichever trained color it sees, the corresponding
 LED lights up. If no trained color is visible, all LEDs turn off.
 
+## Demo Photo
+![Physical setup](demo.gif)
+
 ## Hardware Used
 
 * Arduino (Uno or compatible)
